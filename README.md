@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamrin
-- 👀 I’m interested in Cars, Homelab, Ballroom Dancing
-- 🌱 I’m currently learning Linux Server, Docker, Kubernetes and Github
+- 👀 I’m interested in Cars, Cooking, Homelab and Ballroom Dancing
+- 🌱 I’m currently learning Linux Server, Docker, Kubernetes, NixOS and Github/CICD flows
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
